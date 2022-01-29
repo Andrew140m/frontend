@@ -17,6 +17,12 @@ body {
 text-align: center;
 }
 
+.button1a {
+  position: fixed;
+  right: 10px;
+  top: 5px;
+}
+
 .floating-button {
   text-decoration: none;
   display: inline-block;
