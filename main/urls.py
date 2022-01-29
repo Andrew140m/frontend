@@ -9,4 +9,3 @@ urlpatterns = [
     path('doc.html', views.doc, name='usermode'),
     path('abouteng.html', views.abouteng, name='usermode')
 ]
-#comm
