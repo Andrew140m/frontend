@@ -6,6 +6,5 @@ urlpatterns = [
     path('main.html', views.usermode, name='usermode'),
     path('send/', views.send, name='senddata'),
     path('about.html', views.about, name='usermode'),
-    path('doc.html', views.doc, name='usermode'),
     path('abouteng.html', views.abouteng, name='usermode')
 ]

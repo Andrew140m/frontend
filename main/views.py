@@ -45,8 +45,5 @@ def send(request):
 def about(request):
     return render(request, 'main/about.html')
 
-def doc(request):
-    return render(request, 'main/doc.html')
-
 def abouteng(request):
     return render(request, 'main/abouteng.html')
