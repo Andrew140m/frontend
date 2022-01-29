@@ -8,6 +8,11 @@ body {
     -o-background-size: 100%;
     background-size: 100%;
 }
+
+.copy {
+    color: black;
+}
+
 .buttons {
 text-align: center;
 }
